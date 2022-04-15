@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main(){
+	int nota1, nota2, media;
+	nota1 = 5;
+	nota2 = 7;
+	media = (nota1 + nota2)/2;
+	printf("A media = %d", media);
+	printf("\n");
+	return 0;
+}
